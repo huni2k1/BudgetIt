@@ -1,0 +1,7 @@
+POST http://localhost:3002/api/transactions
+Content-Type: application/json
+
+{
+  "amount": 100.00,
+  "description": "Groceries"
+}
